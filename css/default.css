@@ -10930,6 +10930,9 @@ a.article-nav-next span {
   word-wrap: break-word;
   white-space: normal;
 }
+#toc {
+  max-height: calc(100vh - 22px);
+}
 .navbar-main {
   box-shadow: 0 4px 10px rgba(0,0,0,0.05);
 }
